@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido com o objetivo de praticar e aprimorar meus conhecimentos em desenvolvimento Front-End, utilizando HTML, CSS e JavaScript. Criei um site inspirado nas cartas do anime Yu-Gi-Oh!, focando principalmente na parte visual e interativa, trabalhando conceitos de estilização, responsividade e lógica de programação.
